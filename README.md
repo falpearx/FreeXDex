@@ -1,5 +1,6 @@
 # Codex Key System Bypasser - Bypass Key System
 
+> ⚠️Educational purposes only
 > ⚠️**Use at your own risk!**
 
 1. **First, you need a Browser Extension for managing UserScripts** [[1]][userscrips_faq] (skip if you already have one):  
