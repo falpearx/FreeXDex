@@ -11,16 +11,17 @@
    * Edge: [Tampermonkey][edge_tampermonkey]  
    * Safari: ~[Tampermonkey][safari_tampermonkey]~
 
-2. **Install FreeXDex Key System Bypasser:**  
+2. **Install FreeXDex Key System Bypasser:**
+<a href="https://www.tampermonkey.net/script_installation.php#url=https://github.com/falpearx/FreeXDex/releases/download/v1.0.0/FreeXDex.user.js" target="_blank">FreeXDex UserScript Download</a>.
    [FreeXDex UserScript Download](https://www.tampermonkey.net/script_installation.php#url=https://github.com/falpearx/FreeXDex/releases/download/v1.0.0/FreeXDex.user.js).
 
-3. **Open Your Whitelist Link and Open Checkpoints.**
+4. **Open Your Whitelist Link and Open Checkpoints.**
 
-4. **A Pop-Up will Show Up, Enable It.**
+5. **A Pop-Up will Show Up, Enable It.**
 
-5. **You Will See a Message, Click Yes and Wait 15 Seconds.**
+6. **You Will See a Message, Click Yes and Wait 15 Seconds.**
 
-6. **Enjoy.**
+7. **Enjoy.**
 
 > **It would be awesome if you could just click the [⭐️ Star button](https://github.com/falpearx/FreeXDex) at the top!**
 
