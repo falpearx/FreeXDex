@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Codex Key System Bypasser
+// @name         FreeXDex
 // @namespace    https://github.com/falpearx
 // @version      1.0.0
 // @description  Bypass the Codex Key System with ease!
