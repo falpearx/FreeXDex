@@ -1,4 +1,4 @@
-# Codex Key System Bypasser - Bypass Key System
+# FreeXDex - Bypass Codex Key System
 
 > ⚠️Educational purposes only
 > ⚠️**Use at your own risk!**
@@ -11,8 +11,8 @@
    * Edge: [Tampermonkey][edge_tampermonkey]  
    * Safari: ~[Tampermonkey][safari_tampermonkey]~
 
-2. **Install Codex Key System Bypasser:**  
-   [UserScript Download](https://www.tampermonkey.net/script_installation.php#url=github/release).
+2. **Install FreeXDex Key System Bypasser:**  
+   [FreeXDex UserScript Download](https://www.tampermonkey.net/script_installation.php#url=github/release).
 
 3. **Open Your Whitelist Link and Open Checkpoints.**
 
@@ -22,12 +22,12 @@
 
 6. **Enjoy.**
 
-> **It would be awesome if you could just click the [⭐️ Star button](https://github.com/falpearx/Codex-Key-System-Bypasser) at the top!**
+> **It would be awesome if you could just click the [⭐️ Star button](https://github.com/falpearx/FreeXDex) at the top!**
 
 ----
 
 ### Need help?
-Read existing [questions](https://github.com/falpearx/Codex-Key-System-Bypasser/discussions), or post a new one.
+Read existing [questions][discussions], or post a new one.
 
 ### Have an Idea or Feature request?
 Check out the [Ideas][ideas] section, if your idea _hasn't been posted before_, please post a new one.
@@ -35,7 +35,7 @@ Check out the [Ideas][ideas] section, if your idea _hasn't been posted before_, 
 ### Found a bug?
 It is preferred that _issues_ follow a certain format. If you're not familiar with bug reports, please use the [discussions][discussions] tab instead.
 
-If you believe you found a bug please file an [issue](https://github.com/falpearx/Codex-Key-System-Bypasser/issues), but please fill the issue template.
+If you believe you found a bug please file an [issue][issues], but please fill the issue template.
 
 ----
 
@@ -67,19 +67,19 @@ Please read: [what I'm doing to ensure this is safe for users][security_policy].
   [openuserjs_icon]: https://user-images.githubusercontent.com/3372598/166113714-5a2ede39-8d66-43a8-b5da-8f1897cb3121.png
   [greasyfork_moderation]: https://greasyfork.org/en/moderator_actions
 
-  [issues]: https://github.com/falpearx/Codex-Key-System-Bypasser/issues
-  [issues_open]: https://github.com/falpearx/Codex-Key-System-Bypasser/issues
-  [issues_closed]: https://github.com/falpearx/Codex-Key-System-Bypasser/issues
-  [prs]: https://github.com/falpearx/Codex-Key-System-Bypasser/pulls
-  [pr_open]: https://github.com/falpearx/Codex-Key-System-Bypasser/pulls
-  [prs_closed]: https://github.com/falpearx/Codex-Key-System-Bypasser/pulls
-  [forks]: https://github.com/falpearx/Codex-Key-System-Bypasser/network/members
+  [issues]: https://github.com/falpearx/FreeXDex/issues
+  [issues_open]: https://github.com/falpearx/FreeXDex/issues
+  [issues_closed]: https://github.com/falpearx/FreeXDex/issues
+  [prs]: https://github.com/falpearx/FreeXDex/pulls
+  [pr_open]: https://github.com/falpearx/FreeXDex/pulls
+  [prs_closed]: https://github.com/falpearx/FreeXDex/pulls
+  [forks]: https://github.com/falpearx/FreeXDex/network/members
 
-  [wiki]: https://github.com/falpearx/Codex-Key-System-Bypasser/wiki
-  [discussions]: https://github.com/falpearx/Codex-Key-System-Bypasser/discussions
-  [ideas]: https://github.com/falpearx/Codex-Key-System-Bypasser/discussions/categories/2-ideas
-  [questions]: https://github.com/falpearx/Codex-Key-System-Bypasser/discussions/categories/1-questions-answers
-  [security_policy]: https://github.com/falpearx/Codex-Key-System-Bypasser/wiki/Security-Policy
+  [wiki]: https://github.com/falpearx/FreeXDex/wiki
+  [discussions]: https://github.com/falpearx/FreeXDex/discussions
+  [ideas]: https://github.com/falpearx/FreeXDex/discussions/categories/2-ideas
+  [questions]: https://github.com/falpearx/FreeXDex/discussions/categories/1-questions-answers
+  [security_policy]: https://github.com/falpearx/FreeXDex/wiki/Security-Policy
 
 <!-- Extensions -->
   [chrome_violentmonkey]: https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag
