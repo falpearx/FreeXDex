@@ -12,7 +12,7 @@
    * Safari: ~[Tampermonkey][safari_tampermonkey]~
 
 2. **Install FreeXDex Key System Bypasser:**
-<a href="https://www.tampermonkey.net/script_installation.php#url=https://github.com/falpearx/FreeXDex/releases/download/v1.0.0/FreeXDex.user.js" target="_blank">FreeXDex UserScript Download</a>.
+<a target="_blank" href="https://www.tampermonkey.net/script_installation.php#url=https://github.com/falpearx/FreeXDex/releases/download/v1.0.0/FreeXDex.user.js">FreeXDex UserScript Download</a>.
    [FreeXDex UserScript Download](https://www.tampermonkey.net/script_installation.php#url=https://github.com/falpearx/FreeXDex/releases/download/v1.0.0/FreeXDex.user.js).
 
 4. **Open Your Whitelist Link and Open Checkpoints.**
