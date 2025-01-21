@@ -7,6 +7,7 @@
 // @downloadURL  https://github.com/falpearx/FreeXDex/raw/main/FreeXDex.user.js
 // @author       Falpearx; https://github.com/falpearx
 // @match        *://loot-links.com/*
+// @match        *://loot-link.com/*
 // @match        *://linkvertise.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=codex.lol
 // @grant        none
